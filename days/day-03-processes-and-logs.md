@@ -1,5 +1,5 @@
 
-# Día 02 — Procesos y Logs
+# Día 03 — Procesos y Logs
 
 ## Foreground / Background / Jobs / PID
 
